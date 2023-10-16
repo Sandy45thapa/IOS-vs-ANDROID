@@ -7,4 +7,4 @@ This is the comparison between IOS and ANDROID
 ## Team Member 1- Sandip Thapa
 
 <img src="images/Android slashes.jpeg">
-Androids are far better than IOS.
+<h1>Androids are far better than IOS.<h1>
