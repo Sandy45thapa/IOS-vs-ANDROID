@@ -8,7 +8,7 @@ This is the comparison between IOS and ANDROID
 
 <img src="images/Android slashes.jpeg">
 <h1>Androids are far better than IOS.</h1>
-<p>1. Customization: Android allows for a higher level of customization. Users can change home screen layouts, use widgets, and even install alternative launchers to personalize the user experience to a greater extent than IOS. Android, being an open-source platform, offers a high degree of customization, allowing users to tweak various aspects of their devices and applications.Some of them are: Home Screen and Widgets, Wallpaper, Themes and Launchers, Notification Settings, Quick Settings and Status Bar, Fonts and Text Sizes, System Themes, Accessibility etc.</p>
+**Customization**-Android allows for a higher level of customization. Users can change home screen layouts, use widgets, and even install alternative launchers to personalize the user experience to a greater extent than IOS. Android, being an open-source platform, offers a high degree of customization, allowing users to tweak various aspects of their devices and applications.Some of them are: Home Screen and Widgets, Wallpaper, Themes and Launchers, Notification Settings, Quick Settings and Status Bar, Fonts and Text Sizes, System Themes, Accessibility etc.
 <img src="images/customization of android.avif">
 
 <p>2. Variety of Hardware Options: Android devices come in various shapes, sizes, and price points, giving consumers more choices in terms of hardware.This diversity is one of Android's strengths, as it allows for a broad range of devices with varying capabilities and form factors. This means you can find Android devices that fit your budget and specific requirements.Here are some of the key hardware options you can find in Android devices: Smartphones,Tablets,Wearable Devices,Smart TVs,Gaming Consoles, Smart Home Devices,Drones and Robots,Foldable and Dual-Screen Devices </p>
@@ -23,11 +23,12 @@ This is the comparison between IOS and ANDROID
 <p>5. Multitasking: Android traditionally offers more robust multitasking capabilities, making it easier to switch between apps and perform various tasks simultaneously.</p>
  <img src="images/multitasking.jpeg">
 
-<p>6. Affordability: Android devices come in a wide range of price points, including budget-friendly options, which can be appealing for cost-conscious consumers.</p>
+<p>6. Affordability: Android devices come in a wide range of price points, including budget-friendly options, which can be appealing for cost-conscious consumers. So, people can buy Androids in cheap price.</p>
  <img src="images/Android-vs-iOS-Statistics.png">
 
 <p>7. Expandable Storage: Many Android devices offer the option to expand storage via microSD cards, which can be essential for users who require a lot of storage space.</p>
  <img src="images/storage.jpeg">
 
 **Thus Android is far better**
+
 <img src="images/andriod eating apple.png">
