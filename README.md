@@ -7,7 +7,7 @@ This is the comparison between IOS and ANDROID
 ## Team Member 1- Sandip Thapa
 
 <img src="images/Android slashes.jpeg">
-<h1>Androids are far better than IOS.<h1>
+<h1>Androids are far better than IOS.</h1>
 <p>1. Customization: Android allows for a higher level of customization. Users can change home screen layouts, use widgets, and even install alternative launchers to personalize the user experience to a greater extent than iOS.</p>
 <img src="images/customization of android.avif">
 
