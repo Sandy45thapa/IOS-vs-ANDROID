@@ -28,6 +28,6 @@ This is the comparison between IOS and ANDROID
 <p>7. Expandable Storage: Many Android devices offer the option to expand storage via microSD cards, which can be essential for users who require a lot of storage space. This feature allows users to store more apps, photos, videos, and other data on their devices without having to rely solely on the internal storage.</p>
  <img src="images/storage.jpeg">
 
-**Thus Android is far better than IOS due to these varieties of features.**
+**Thus Android is far better than IOS due to these varieties of features.Androids are all over IOS**
 
 <img src="images/andriod eating apple.png">
