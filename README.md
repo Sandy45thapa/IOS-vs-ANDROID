@@ -19,6 +19,16 @@ This is the comparison between IOS and ANDROID
 7. Expandable Storage: Many Android devices offer the option to expand storage via microSD cards, which can be essential for users who require a lot of storage space.
 </p>
 
+
+
+
+
+
+
+
+
+
+
 1.**Ecosystem Integration**-The iPhone, iPad, Apple Watch, Mac, and even Apple TV all offer a tightly linked ecosystem with iOS. The user experience is made more uniform and fluid across all devices thanks to this seamless connection.
 
 
